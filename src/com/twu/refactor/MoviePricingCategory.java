@@ -1,7 +1,7 @@
 package com.twu.refactor;
 
 public enum MoviePricingCategory {
-    CHILDRENS(1.5, 1.5, 3),
+    CHILDREN(1.5, 1.5, 3),
     REGULAR(2, 1.5, 2),
     NEW_RELEASE(0,3,0);
     private double upFrontCost;

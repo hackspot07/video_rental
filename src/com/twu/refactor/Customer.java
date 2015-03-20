@@ -44,11 +44,5 @@ public class Customer {
     public List<Rental> getRentalList() {
         return rentalList;
     }
-
-    //    public String htmlStatement () {
-//
-//        String result = new StringBuilder().append("<H1>Rental Record for <EM>").append(getName()).append("</EM></H1>").append();
-//
-//        return result;
-//    }
+    
 }
